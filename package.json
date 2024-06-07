@@ -1,0 +1,16 @@
+{
+  "name": "demoqa-playwright",
+  "version": "1.0.0",
+  "description": "rudementory project to demo how pageobject and enums functions within constructor function",
+  "main": "index.js",
+  "scripts": {
+    "test:e2e":"npx playwright test e2e"
+  },
+  "keywords": [],
+  "author": "mohat shil",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.14.2"
+  }
+}
